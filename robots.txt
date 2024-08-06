@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beaterog.github.io/sitemap.html.gz
+Sitemap: https://beaterog.github.io/app/sitemap.html.gz
+Sitemap: https://beaterog.github.io/assets/sitemap.html.gz
+Sitemap: https://beaterog.github.io/css/sitemap.html.gz
+Sitemap: https://beaterog.github.io/includes/sitemap.html.gz
+Sitemap: https://beaterog.github.io/item/sitemap.html.gz
+Sitemap: https://beaterog.github.io/src/sitemap.html.gz
